@@ -1,0 +1,6 @@
+
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8·«äÓ¯2
+G	java:S106"+Replace this use of System.out by a logger.(ËÊƒæ8ÂÿÙÓ¯2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àî¡şÿÿÿÿ8ÁÿÙÓ¯2
+F	java:S106"+Replace this use of System.out by a logger.(²ñÉC8¤şäÓ¯2
